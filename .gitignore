@@ -1,0 +1,16 @@
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+.vs/
+*.user
+*.aps
+*.opendb
+*.pdb
+*.VC.db
+*.sln.docstates
+
+*.log
+*.tlog
